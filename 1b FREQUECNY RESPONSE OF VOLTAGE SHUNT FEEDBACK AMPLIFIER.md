@@ -9,7 +9,7 @@
 
 # Circuit Diagram 
 <img width="483" height="557" alt="image" src="https://github.com/user-attachments/assets/de795502-f64f-4ff9-a5e6-bba24b388290" />
-<img width="310" height="146" alt="image" src="https://github.com/user-attachments/assets/d7d8630c-b99c-44c3-9696-e3c0ac79c4d9" />
+<img width="339" height="166" alt="image" src="https://github.com/user-attachments/assets/81043006-683a-4d45-b690-856d28f02e30" />
 
 # Without Feedback:
 <img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
