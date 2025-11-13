@@ -9,7 +9,8 @@
 
 # Circuit Diagram 
 <img width="483" height="557" alt="image" src="https://github.com/user-attachments/assets/de795502-f64f-4ff9-a5e6-bba24b388290" />
-<img width="339" height="166" alt="image" src="https://github.com/user-attachments/assets/81043006-683a-4d45-b690-856d28f02e30" />
+
+![WhatsApp Image 2025-11-12 at 5 50 32 PM](https://github.com/user-attachments/assets/bbed788c-faa2-450c-af20-ff179b4d74ed)
 
 # Without Feedback:
 <img width="581" height="362" alt="image" src="https://github.com/user-attachments/assets/4b0a599c-6d35-4616-a306-2360b5f4f172" />
