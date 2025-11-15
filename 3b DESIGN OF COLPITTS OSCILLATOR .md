@@ -19,7 +19,8 @@
 |------------|--------------|----------------------|------------------------|
 |      42.40V      |     20ms         |         50.07HZ             |         50HZ               |
 
-![Uploading image.png…]()
+<img width="1190" height="412" alt="image" src="https://github.com/user-attachments/assets/89756f69-644e-4c52-a25c-6a86ef4f9ba8" />
+
 
 # Graph
 <img width="971" height="1280" alt="image" src="https://github.com/user-attachments/assets/9612545a-7d8b-4c9a-9b92-5ac9ef2aa958" />
