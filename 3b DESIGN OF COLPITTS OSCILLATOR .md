@@ -15,7 +15,11 @@
 
 
 # Tabulation
-<img width="1190" height="412" alt="image" src="https://github.com/user-attachments/assets/97e490a2-4527-4e4a-93cb-4b906664d270" />
+| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
+|------------|--------------|----------------------|------------------------|
+|      42.40V      |     20ms         |         50.07HZ             |         50HZ               |
+
+![Uploading image.png…]()
 
 # Graph
 <img width="971" height="1280" alt="image" src="https://github.com/user-attachments/assets/9612545a-7d8b-4c9a-9b92-5ac9ef2aa958" />
